@@ -1,4 +1,6 @@
 Netflix clone developed using the MERN stack (MongoDB, Express.js, React, Node.js). It includes features suchas user authentication, a main page showcasing available content,search by genre,API integration from TMDB API
+![Screenshot (116)](https://github.com/Sathvik145/Netflix_CLONE/assets/92632503/97db9dc3-fd16-409a-947e-9f5d55e0bd8a)
+![Screenshot (117)](https://github.com/Sathvik145/Netflix_CLONE/assets/92632503/72bb53c6-cf71-4661-bcd5-3763f1ea5ab1)
 ![Screenshot (105)](https://github.com/Sathvik145/Netflix_CLONE/assets/92632503/52b3af00-3c4d-4535-bc97-75d8e8823d33)
 ![Screenshot (106)](https://github.com/Sathvik145/Netflix_CLONE/assets/92632503/3846426c-a1e2-4201-8c5c-29fe77a66603)
 ![Screenshot (107)](https://github.com/Sathvik145/Netflix_CLONE/assets/92632503/502dea3d-3534-472f-9e89-dda8dcf02f11)
